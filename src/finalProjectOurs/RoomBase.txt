@@ -1,0 +1,19 @@
+Room{roomId=1, person=2, price=100, hotel=Hotel (hotel=1, name='Dnipro', city='Kiev'),[ reservedUserId=0, reservedUserName='null' ], bookingState=NOT_RESERVED}
+Room{roomId=3, person=2, price=150, hotel=Hotel (hotel=3, name='Slavutich', city='Cherkasy'),[ reservedUserId=0, reservedUserName='null' ], bookingState=NOT_RESERVED}
+Room{roomId=1, person=2, price=100, hotel=Hotel (hotel=1, name='Dnipro', city='Kiev'),[ reservedUserId=0, reservedUserName='null' ], bookingState=NOT_RESERVED}
+Room{roomId=3, person=2, price=150, hotel=Hotel (hotel=3, name='Slavutich', city='Cherkasy'),[ reservedUserId=0, reservedUserName='null' ], bookingState=NOT_RESERVED}
+Room{roomId=1, person=2, price=100, hotel=Hotel (hotel=1, name='Dnipro', city='Kiev'),[ reservedUserId=0, reservedUserName='null' ], bookingState=NOT_RESERVED}
+Room{roomId=3, person=2, price=150, hotel=Hotel (hotel=3, name='Slavutich', city='Cherkasy'),[ reservedUserId=0, reservedUserName='null' ], bookingState=NOT_RESERVED}
+Room{roomId=1, person=2, price=100, hotel=Hotel (hotel=1, name='Dnipro', city='Kiev'),[ reservedUserId=0, reservedUserName='null' ], bookingState=NOT_RESERVED}
+Room{roomId=3, person=2, price=150, hotel=Hotel (hotel=3, name='Slavutich', city='Cherkasy'),[ reservedUserId=0, reservedUserName='null' ], bookingState=NOT_RESERVED}
+Room{roomId=1, person=2, price=100, hotel=Hotel (hotel=1, name='Dnipro', city='Kiev'),[ reservedUserId=0, reservedUserName='null' ], bookingState=NOT_RESERVED}
+Room{roomId=3, person=2, price=150, hotel=Hotel (hotel=3, name='Slavutich', city='Cherkasy'),[ reservedUserId=0, reservedUserName='null' ], bookingState=NOT_RESERVED}
+Room{roomId=1, person=2, price=100, hotel=Hotel (hotel=1, name='Dnipro', city='Kiev'),[ reservedUserId=0, reservedUserName='null' ], bookingState=NOT_RESERVED}
+Room{roomId=3, person=2, price=150, hotel=Hotel (hotel=3, name='Slavutich', city='Cherkasy'),[ reservedUserId=0, reservedUserName='null' ], bookingState=NOT_RESERVED}
+Room{roomId=4, person=2, price=100, hotel=Hotel (hotel=2, name='Desna', city='Kiev'),[ reservedUserId=0, reservedUserName='null' ], bookingState=NOT_RESERVED}
+Room{roomId=1, person=2, price=100, hotel=Hotel (hotel=1, name='Dnipro', city='Kiev'),[ reservedUserId=0, reservedUserName='null' ], bookingState=NOT_RESERVED}
+Room{roomId=3, person=2, price=150, hotel=Hotel (hotel=3, name='Slavutich', city='Cherkasy'),[ reservedUserId=0, reservedUserName='null' ], bookingState=NOT_RESERVED}
+Room{roomId=4, person=2, price=100, hotel=Hotel (hotel=2, name='Desna', city='Kiev'),[ reservedUserId=0, reservedUserName='null' ], bookingState=NOT_RESERVED}
+Room{roomId=1, person=2, price=100, hotel=1 Dnipro Kiev,[ reservedUserId=0, reservedUserName='null' ], bookingState=NOT_RESERVED}
+Room{roomId=3, person=2, price=150, hotel=3 Slavutich Cherkasy,[ reservedUserId=0, reservedUserName='null' ], bookingState=NOT_RESERVED}
+Room{roomId=4, person=2, price=100, hotel=2 Desna Kiev,[ reservedUserId=0, reservedUserName='null' ], bookingState=NOT_RESERVED}
